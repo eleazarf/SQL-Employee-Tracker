@@ -44,3 +44,5 @@ After installing all the required packages, launch your terminal and execute the
 npm start
 ```
 ![Alt text](images/example3.gif)
+
+View a [video](https://drive.google.com/file/d/1Yd3XOd39IaSwOycLpXpx2AFyo47ozY6p/view) demonstration showcasing the fundamental features.
