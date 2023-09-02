@@ -1,19 +1,28 @@
 {
   "name": "sql-employee-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A user-friendly interface for non-developers to access database info. The command-line app use Node.js, Inquirer & MySQL to manage a company's employee data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Eleazar Fuentes",
+  "license": "MIT",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^16.3.1",
     "figlet": "^1.6.0",
-    "inquirer": "^9.2.10",
+    "inquirer": "^8.2.6",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleazarf/SQL-Employee-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eleazarf/SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/eleazarf/SQL-Employee-Tracker#readme"
 }
