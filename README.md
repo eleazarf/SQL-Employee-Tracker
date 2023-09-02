@@ -37,6 +37,7 @@ First you must prepare your mysql database using the .db/schema.sql and .db/seed
 ![Alt text](images/example1.gif)
 
 * Filling database tables:
+![Alt text](images/example2.gif)
 
 After installing all the required packages, launch your terminal and execute the following command in the command line:
 ```
