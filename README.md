@@ -43,4 +43,4 @@ After installing all the required packages, launch your terminal and execute the
 ```
 npm start
 ```
-![Alt text](images/image-5.png)
+![Alt text](images/example3.gif)
