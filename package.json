@@ -4,7 +4,8 @@
   "description": "A user-friendly interface for non-developers to access database info. The command-line app use Node.js, Inquirer & MySQL to manage a company's employee data.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Eleazar Fuentes",
